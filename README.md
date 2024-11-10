@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-Welcome to the Movie Recommendation System! This repository contains a content-based recommendation engine that suggests movies based on various metadata fields provided by the user, allowing flexible search options that cater to different interests and preferences.
+Welcome to the NLP driven movie recommendation system. This repository contains a content-based recommendation engine that suggests movies based on various metadata fields provided by the user, allowing flexible search options that cater to different interests and preferences.
 
 ## Project Overview
 
