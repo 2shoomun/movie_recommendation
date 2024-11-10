@@ -24,7 +24,7 @@ This project leverages machine learning techniques to build a versatile recommen
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/movie_recommendation.git
+   git clone https://github.com/2shoomun/movie_recommendation.git
    cd movie_recommendation
    ```
 
