@@ -40,7 +40,7 @@ This project leverages machine learning techniques to build a versatile recommen
 4. **Making Recommendations**:
    Use the recommendation function by inputting any movie-related information such as title, year, or character. The system will output a list of movies matching the specified criteria.
 
-## 🔍 Example
+## Example
 
 Here’s how the recommendation function can be used flexibly:
 
@@ -52,7 +52,7 @@ recommend_movies("Marlon Brando")
 
 Each of these inputs will return movies relevant to the specified metadata, giving users control over their search.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** for programming
 - **Pandas** for data processing
